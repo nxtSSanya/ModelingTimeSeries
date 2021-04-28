@@ -17,3 +17,5 @@ Then, finding same determinants and changing columns, have 3 (for case n = 2) pa
 <img src = "https://moluch.ru/blmcbn/49571/49571.023.png"></br>
 And parameters a,b,c we can find according to Cramer's rule:
 <img src="https://latex.codecogs.com/svg.image?a&space;=&space;\frac{\Delta_1}{\Delta},&space;b&space;=&space;\frac{\Delta_2}{\Delta},&space;c&space;=&space;\frac{\Delta_3}{\Delta}" title="a = \frac{\Delta_1}{\Delta}, b = \frac{\Delta_2}{\Delta}, c = \frac{\Delta_3}{\Delta}" />
+Finally, put our values to equation:
+<img src = "https://moluch.ru/blmcbn/49571/49571.007.png">
