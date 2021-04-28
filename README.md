@@ -34,5 +34,4 @@ Solution:</br>
 <img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image035.png"></br>
 # How to use program
 Program created by Qt creator 4.11.0 (Community). It have simple UI, that you can see on the picture down.</br>
-<img src = "![image](https://user-images.githubusercontent.com/56893467/116394176-a03bbc80-a833-11eb-90ae-6bf5e7857ed9.png)
-"></br>
+<img src = "https://user-images.githubusercontent.com/56893467/116394176-a03bbc80-a833-11eb-90ae-6bf5e7857ed9.png"></br>
