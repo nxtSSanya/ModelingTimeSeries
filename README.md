@@ -26,9 +26,9 @@ And to find her parameters we again need to solve linear system:</br>
 <img src="https://latex.codecogs.com/svg.image?a_1&space;=\frac{n\sum\frac{y_i}{x_i}&space;-&space;\sum&space;\frac{1}{x_i}\sum&space;y_i}{n\sum\frac{1}{x^2_i}&space;-&space;(\sum&space;\frac{1}{x_i})^2}" title="a_1 =\frac{n\sum\frac{y_i}{x_i} - \sum \frac{1}{x_i}\sum y_i}{n\sum\frac{1}{x^2_i} - (\sum \frac{1}{x_i})^2}" /></br>
 <img src="https://latex.codecogs.com/svg.image?a_0&space;=&space;\frac{1}{n}&space;\sum&space;y_i&space;-&space;\frac{1}{n}a_1\sum&space;\frac{1}{x_i}" title="a_0 = \frac{1}{n} \sum y_i - \frac{1}{n}a_1\sum \frac{1}{x_i}" /></br>
 # Logarithmic model
-And finally, we have a function:
+And finally, we have a function:</br>
 <img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image033.png"></br>
 Linear system:</br>
 <img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image034.png"></br>
-Solution:
+Solution:</br>
 <img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image035.png"></br>
