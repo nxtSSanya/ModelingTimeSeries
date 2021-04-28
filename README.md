@@ -1,3 +1,5 @@
+Theory
+======
 # Modeling Time Series
 This time I'll try to find regression model of time series. First of all, let's descript our models:</br>
 1. Polynomial model (special case is n = 2)
