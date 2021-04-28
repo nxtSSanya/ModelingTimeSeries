@@ -8,8 +8,7 @@ Imagine, that we have a function:</br>
 <img src = "https://moluch.ru/blmcbn/49571/49571.008.png"></br>
 Using least squares method, we have system of linear equations:</br>
 <img src = "https://moluch.ru/blmcbn/49571/49571.019.png"></br>
-To solve Cramer's rule, we need to find have:
-Header determinant:</br>
+To solve Cramer's rule, we need to find header determinant:</br>
 <img src = "https://moluch.ru/blmcbn/49571/49571.020.png"></br>
 Then, finding same determinants and changing columns, have 3 (for case n = 2) parameters: a,b,c
 <img src = "https://moluch.ru/blmcbn/49571/49571.021.png"></br>
