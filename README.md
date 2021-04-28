@@ -20,8 +20,15 @@ Finally, we substitute our values into the equation:
 <img src = "https://moluch.ru/blmcbn/49571/49571.007.png"></br>
 # Hyperbolic model
 We can present our model like:</br>
-<img src = "<img src="https://latex.codecogs.com/svg.image?\hat{y_i}&space;=&space;a_0&space;&plus;&space;a_1\frac{1}{t_i}" title="\hat{y_i} = a_0 + a_1\frac{1}{t_i}" />"></br>
+<img src="https://latex.codecogs.com/svg.image?\hat{y_i}&space;=&space;a_0&space;&plus;&space;a_1\frac{1}{t_i}" title="\hat{y_i} = a_0 + a_1\frac{1}{t_i}" /></br>
 And to find her parameters we again need to solve linear system:</br>
 <img src = "https://sun9-8.userapi.com/impg/R0YyocrYvi1D0CW6_56NZb0c_C-ag9iit0iwBw/3og3iybJ_mc.jpg?size=236x123&quality=96&sign=e33b229c7320d09694df161ffbfc9333&type=album"></br>
 <img src="https://latex.codecogs.com/svg.image?a_1&space;=\frac{n\sum\frac{y_i}{x_i}&space;-&space;\sum&space;\frac{1}{x_i}\sum&space;y_i}{n\sum\frac{1}{x^2_i}&space;-&space;(\sum&space;\frac{1}{x_i})^2}" title="a_1 =\frac{n\sum\frac{y_i}{x_i} - \sum \frac{1}{x_i}\sum y_i}{n\sum\frac{1}{x^2_i} - (\sum \frac{1}{x_i})^2}" /></br>
 <img src="https://latex.codecogs.com/svg.image?a_0&space;=&space;\frac{1}{n}&space;\sum&space;y_i&space;-&space;\frac{1}{n}a_1\sum&space;\frac{1}{x_i}" title="a_0 = \frac{1}{n} \sum y_i - \frac{1}{n}a_1\sum \frac{1}{x_i}" /></br>
+# Logarithmic model
+And finally, we have a function:
+<img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image033.png"></br>
+Linear system:</br>
+<img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image034.png"></br>
+Solution:
+<img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image035.png"></br>
