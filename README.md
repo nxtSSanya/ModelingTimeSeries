@@ -35,10 +35,10 @@ Solution:</br>
 # How to use program
 Program created by Qt creator 4.11.0 (Community), using `std`. It have simple UI, that you can see on the picture down.</br>
 <img src = "https://user-images.githubusercontent.com/56893467/116394176-a03bbc80-a833-11eb-90ae-6bf5e7857ed9.png"></br>
-You just only need data (example here in sources), in my example size of data is 50, later I'll add for any count of data.</br>
+You only need data (example here in sources), in my example size of data is 50, later I'll add for any count of data.</br>
 First button is the "Get graph" - plotting the graphic of your data.</br>
 Second button is the "Quadratic" - polynomial regression where n = 2.</br>
 Third button is the "Hyperbolic" - hyperbolic regression model.</br>
 And the fourth button is the "Logarithmic" - logarithmic regression model.</br>
 # The best model
-With all model equations you can see R^2 coefficient, that show how is the model good.</br>
+With all model equations you can see R^2 coefficient also called as determination coefficient, that show how is the model good.</br>
