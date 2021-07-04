@@ -33,7 +33,7 @@ Linear system:</br>
 Solution:</br>
 <img src = "http://simenergy.ru/MyArticles/Math_analysis_digital_processing/005/Ordinary_Least_Squares.files/image035.png"></br>
 # How to use program
-Program created by Qt creator 4.11.0 (Community), using `std`. It have simple UI, that you can see on the picture down.</br>
+Program created by Qt creator 4.11.0 (Community), using `std`. It has simple UI, that you can see on the picture down.</br>
 <img src = "https://user-images.githubusercontent.com/56893467/116394176-a03bbc80-a833-11eb-90ae-6bf5e7857ed9.png"></br>
 You only need data (example here in sources), in my example size of data is 50, later I'll add for any count of data.</br>
 First button is the "Get graph" - plotting the graphic of your data.</br>
